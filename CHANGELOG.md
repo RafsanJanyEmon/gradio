@@ -1,5 +1,15 @@
 # gradio
 
+## 3.47.0
+
+### Features
+
+- [#5780](https://github.com/gradio-app/gradio/pull/5780) [`ed0f9a21b`](https://github.com/gradio-app/gradio/commit/ed0f9a21b04ad6b941b63d2ce45100dbd1abd5c5) - Adds `change()` event to `gr.Gallery`.  Thanks [@abidlabs](https://github.com/abidlabs)!
+
+### Fixes
+
+- [#5794](https://github.com/gradio-app/gradio/pull/5794) [`f096c3ae1`](https://github.com/gradio-app/gradio/commit/f096c3ae168c0df00f90fe131c1e48c572e0574b) - Throw helpful error when media devices are not found.  Thanks [@hannahblair](https://github.com/hannahblair)!
+
 ## 3.46.1
 
 ### Features

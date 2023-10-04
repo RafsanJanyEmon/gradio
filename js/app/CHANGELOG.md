@@ -1,5 +1,11 @@
 # @gradio/app
 
+## 1.6.5
+
+### Fixes
+
+- [#5794](https://github.com/gradio-app/gradio/pull/5794) [`f096c3ae1`](https://github.com/gradio-app/gradio/commit/f096c3ae168c0df00f90fe131c1e48c572e0574b) - Throw helpful error when media devices are not found.  Thanks [@hannahblair](https://github.com/hannahblair)!
+
 ## 1.6.4
 
 ### Features

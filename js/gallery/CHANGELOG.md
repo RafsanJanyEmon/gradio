@@ -1,5 +1,11 @@
 # @gradio/gallery
 
+## 0.5.0
+
+### Features
+
+- [#5780](https://github.com/gradio-app/gradio/pull/5780) [`ed0f9a21b`](https://github.com/gradio-app/gradio/commit/ed0f9a21b04ad6b941b63d2ce45100dbd1abd5c5) - Adds `change()` event to `gr.Gallery`.  Thanks [@abidlabs](https://github.com/abidlabs)!
+
 ## 0.4.1
 
 ### Fixes
