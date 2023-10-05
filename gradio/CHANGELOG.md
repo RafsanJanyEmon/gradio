@@ -1,5 +1,13 @@
 # gradio
 
+## 3.45.0-beta.12
+
+### Features
+
+- [#5770](https://github.com/gradio-app/gradio/pull/5770) [`7d2989677`](https://github.com/gradio-app/gradio/commit/7d298967726f91239c07c219d1dd00b3d9f66cb9) - Fix deployed demos on v4 branch.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5768](https://github.com/gradio-app/gradio/pull/5768) [`00b4e9bb5`](https://github.com/gradio-app/gradio/commit/00b4e9bb54f37c68bb275c137bf08e2c7aefcb17) - Simplify how files are handled in components in 4.0.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5782](https://github.com/gradio-app/gradio/pull/5782) [`370a33ac6`](https://github.com/gradio-app/gradio/commit/370a33ac68104ad45f4fb0e5d5aabf46ed4fa41a) - Name Endpoints if api_name is None.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 3.45.0-beta.11
 
 ### Features

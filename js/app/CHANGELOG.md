@@ -1,16 +1,23 @@
 # @gradio/app
 
+## 1.6.0-beta.8
+
+### Patch Changes
+
+- Updated dependencies [[`7d2989677`](https://github.com/gradio-app/gradio/commit/7d298967726f91239c07c219d1dd00b3d9f66cb9)]:
+  - @gradio/audio@0.4.0-beta.6
+
 ## 1.6.0-beta.7
 
 ### Features
 
-- [#5752](https://github.com/gradio-app/gradio/pull/5752) [`771cca273`](https://github.com/gradio-app/gradio/commit/771cca2735452a80e7888ab9ac0c893a3a9df76d) - Fix windows ci build.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5752](https://github.com/gradio-app/gradio/pull/5752) [`771cca273`](https://github.com/gradio-app/gradio/commit/771cca2735452a80e7888ab9ac0c893a3a9df76d) - Fix windows ci build. Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
 
 ## 1.6.0-beta.6
 
 ### Features
 
-- [#5680](https://github.com/gradio-app/gradio/pull/5680) [`77c5ad98c`](https://github.com/gradio-app/gradio/commit/77c5ad98cf530dd45ef03c4f438105640c4b9c4c) - Fix build and file route.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5680](https://github.com/gradio-app/gradio/pull/5680) [`77c5ad98c`](https://github.com/gradio-app/gradio/commit/77c5ad98cf530dd45ef03c4f438105640c4b9c4c) - Fix build and file route. Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
 
 ## 1.6.0-beta.5
 

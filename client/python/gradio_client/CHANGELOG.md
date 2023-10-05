@@ -1,5 +1,11 @@
 # gradio_client
 
+## 0.6.0-beta.3
+
+### Features
+
+- [#5768](https://github.com/gradio-app/gradio/pull/5768) [`00b4e9bb5`](https://github.com/gradio-app/gradio/commit/00b4e9bb54f37c68bb275c137bf08e2c7aefcb17) - Simplify how files are handled in components in 4.0.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 0.6.0-beta.2
 
 ### Features
